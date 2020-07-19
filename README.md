@@ -1,6 +1,6 @@
 # 沈师校园助手中间部分
 
-本程序基于传统SSM进行开发，数据库使用mysql，搭建搭建基于注解，去掉了xml。
+本程序基于传统SSM进行开发，数据库使用mysql，搭建基于注解，去掉了xml。
 
 此程序作为中间部分，需配合爬虫，github地址：https://github.com/xiaofeixx/sync_spider  
 

@@ -2,7 +2,9 @@
 
 本程序基于传统SSM进行开发，数据库使用mysql，搭建搭建基于注解，去掉了xml。
 
-此程序作为中间部分，需配合爬虫，github地址：https://github.com/xiaofeixx/sync_spider，对应url地址配置请看本项目url.properties自行配置环境即可。
+此程序作为中间部分，需配合爬虫，github地址：https://github.com/xiaofeixx/sync_spider  
+
+对应url地址配置请看本项目url.properties自行配置环境即可。
 
 下面为对应接口功能：
 
